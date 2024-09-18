@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Holger Ehrmann"
 about:
   id: template-area
   template: jolla
@@ -30,13 +30,10 @@ Here goes the information about you.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
-Germany  
-
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Holger Ehrmann 
+Guido-Seeber-Weg 12 
+14480 Potsdam 
+Germany
 
 ## Privacy
 

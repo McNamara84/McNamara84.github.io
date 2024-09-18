@@ -3,7 +3,7 @@ title: "Holger Ehrmann"
 about:
   id: template-area
   template: jolla
-  image: profile.png
+  image: profile.jpg
   links:
     - icon: twitter
       text: twitter

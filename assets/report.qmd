@@ -1,21 +1,17 @@
 ---
 title: "Random report"
 author: 
-  - name: Jane Doe
-    orcid: 0000-0001-2345-6789
+  - name: Holger Ehrmann
+    orcid: 0009-0000-1235-6950
     corresponding: true
-    email: Jane.Doe@example.org
+    email: ehrmann@gfz-potsdam.de
     
 ---
 
 <!-- 
 
 # Instructions for the exercise
-
-1. Move the file to the top level of your repository
-2. Update the file _quarto.yml in your repository to include the report in your webpage
 3. Load a dataset from https://github.com/Hezel2000/GeoCosmoChemDataAndTools/tree/main/csv
-4. Update the YAML header of this file
 5. Create a file `requirements.txt`on the top level of the repo
 5. Update the CI/CD pipeline as instructed below
 6. Create a short report, including plots created from the dataset (they can be interactive if you want -- the result is a webpage)

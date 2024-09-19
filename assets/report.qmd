@@ -11,7 +11,7 @@ author:
 <!-- 
 
 # Instructions for the exercise
-3. Load a dataset from https://github.com/Hezel2000/GeoCosmoChemDataAndTools/tree/main/csv
+
 5. Update the CI/CD pipeline as instructed below
 6. Create a short report, including plots created from the dataset (they can be interactive if you want -- the result is a webpage)
   a. Don't forget to update the `requirements.txt`with the libraries you call.  
